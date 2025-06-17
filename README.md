@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Rokith K</h1>
+<h1 align="center">Hi 👋, I'm Rokith K</h1>
 <h3 align="center">A Dedicated Data Science enthusiast from India, fueled by a passion for AI/ML technologies and innovative problem-solving.</h3>
 
 - 🔭 I’m currently learning **Python and SQL**
