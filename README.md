@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Python and SQL**
 
-- 🌱 I’m currently learning **on AI/ML and DL Tech stacks**
+- 🌱 I’m currently working **on AI/ML and DL Tech stacks**
 
 - 👯 I’m looking to collaborate on **Real Time Projects**
 
